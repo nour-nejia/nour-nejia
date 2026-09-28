@@ -17,4 +17,4 @@ network and cloud security enthusiast · from the LAN to the cloud
 
 **Focus:** Network Security · Cloud (AWS) · Cloud Security
 
-[LinkedIn]([https://www.linkedin.com/in/nour-nejia-slim/]) · [nournejia.slim@insat.ucar.tn](mailto:nournejia.slim@insat.ucar.tn)
+[LinkedIn](https://www.linkedin.com/in/nour-nejia-slim/) · [nournejia.slim@insat.ucar.tn](mailto:nournejia.slim@insat.ucar.tn)
