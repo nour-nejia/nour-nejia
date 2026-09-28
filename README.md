@@ -1,16 +1,19 @@
-## Hi there 👋
+# [Nour Nejia Slim]
 
-<!--
-**nour-nejia/nour-nejia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Networks & Telecommunications Engineering Student @ INSAT**
+Network & Cloud Security — securing infrastructures, layer by layer.
 
-Here are some ideas to get you started:
+```bash
+$ whoami
+network and cloud security engineer in the making · from the LAN to the cloud
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Networking:** `TCP/IP` `IP Networks` `LAN` `WLAN (802.11)` `VLANs` `Routing` `Switching` `Protocol Engineering` `SNMP`
+**Telecommunications:** `Signal Processing` `Telecom Systems`
+**Programming:** `C` `C++` `Python` `Java` `OOP` `Bash` `Git`
+**Systems & Databases:** `Linux` `Shell Scripting` `SQL` `Database Administration`
+**Data & Math:** `Data Analysis` `Statistics` `Stochastic Processes` `Linear Algebra`
+
+**Focus:** Network Security · Cloud (AWS) · Cloud Security
+
+[LinkedIn]([https://www.linkedin.com/in/nour-nejia-slim/]) · [Email](mailto:nournejia.slim@insat.ucar.tn) ·
