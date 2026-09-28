@@ -1,11 +1,10 @@
 # Nour Nejia Slim
 
 **Networks & Telecommunications Engineering Student @ INSAT**  
-Network & Cloud Security — securing infrastructures, layer by layer.
 
 ```text
 $ whoami
-network and cloud security engineer in the making · from the LAN to the cloud
+network and cloud security enthusiast · from the LAN to the cloud
 ```
 
 | Domain | Skills |
